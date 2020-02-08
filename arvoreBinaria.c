@@ -66,6 +66,8 @@ struct node *insert(struct node *head, int info)
   return head;
 }
 
+/*Modificação*/
+
 /*Travel the tree*/
 void traversal(struct node *head)
 {
